@@ -1,2 +1,2 @@
 # SimpleTextEditor
-A simple text editor is created using python
+One simple text editor for multiple programming language is created using python
